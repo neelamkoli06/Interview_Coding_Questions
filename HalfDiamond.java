@@ -16,7 +16,7 @@ class HalfDiamond {
 }
 
 //--------------------------------------
-//output :- 
+//output :-
 
 //  *
 //  * *
@@ -25,4 +25,3 @@ class HalfDiamond {
 //  * * *
 //  * *
 //  *
- 
