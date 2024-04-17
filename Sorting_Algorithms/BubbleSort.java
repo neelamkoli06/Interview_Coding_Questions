@@ -1,3 +1,5 @@
+package Sorting_Algorithms;
+
 class BubbleSort{
     static void bubbleSort(int a[]) {
         int len = a.length;

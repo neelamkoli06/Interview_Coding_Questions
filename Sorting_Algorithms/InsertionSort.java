@@ -1,3 +1,5 @@
+package Sorting_Algorithms;
+
 public class InsertionSort {
     void sort(int arr[]) {
         int n = arr.length;
