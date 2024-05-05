@@ -11,3 +11,6 @@ public class BinaryToDesimal {
         System.out.println(ans);
     }
 }
+//-------------------------------------------------
+//output:-
+// 27

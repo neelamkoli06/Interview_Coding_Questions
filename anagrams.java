@@ -33,3 +33,7 @@ class anagrams {
         }
     }
 }
+
+//---------------------------------------------
+// output:-
+// race and care are anagram.
