@@ -8,3 +8,8 @@ public class Factorial {
         System.out.println("Factorial of "+ n +" is "+ fact);
     }
 }
+//-------------------------------------------
+
+// output:-
+
+// Factorial of 5 is 120
