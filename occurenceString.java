@@ -14,3 +14,6 @@ class occurenceString {
        System.out.println(count);
     }
 }
+//-----------------------------------------------------------
+// output:-
+// 2
