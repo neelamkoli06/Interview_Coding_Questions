@@ -11,7 +11,11 @@ public class OddEven {
             System.out.println("The number "+ num +" is even number: ");
         }
         else{
-            System.out.println("The number "+ num + " is odd number: ");
+            System.out.println("The number "+ num + " is odd number!");
         }
     }
 }
+//------------------------------------------------------------------------
+// output:-
+// Enter a number: 24
+// The number 24 is even number!
