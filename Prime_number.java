@@ -16,3 +16,6 @@ public class Prime_number {
         }
     }
 }
+// ----------------------------------------------------
+// output:-
+// 13 is prime number.
