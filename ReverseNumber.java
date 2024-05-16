@@ -11,3 +11,8 @@ public class ReverseNumber {
         System.out.println("Reverse number is: " + reverse);
     }
 }
+//------------------------------------------------------------
+// output:-
+
+// original number is: 1234
+// Reverse number is: 4321
