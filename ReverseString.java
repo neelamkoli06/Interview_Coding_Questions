@@ -12,3 +12,7 @@ class ReverseString {
     System.out.println(reverse);
     }
 }
+//----------------------------------------------------------------
+// output:-
+
+// olleh
