@@ -42,3 +42,12 @@ class Swapping {
         System.out.println("b = " + b);
     }
 }
+// -----------------------------------------------------------
+// output:-
+
+// Before swapping the numbers are: 
+// a = 10
+// b = 20
+// After swapping the numbers are: 
+// a = 20
+// b = 10
