@@ -20,3 +20,7 @@ public class vowelsConsonant {
         System.out.println("Consonant count is " + consonants);
     }
 }
+// -----------------------------------------------------------
+// output:-
+// Vowels count is 5
+// Consonant count is 4
