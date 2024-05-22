@@ -42,3 +42,7 @@ class CountingSort {
         System.out.println(Arrays.toString(data));
     }
 }
+// ------------------------------------------------------------------
+// output:-
+// Sorted Array in Ascending Order: 
+// [1, 2, 2, 3, 3, 4, 8]
