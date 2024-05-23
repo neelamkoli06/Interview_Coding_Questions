@@ -50,3 +50,7 @@ public class HeapSort {
             printArray(arr);
         }
 }
+// ----------------------------------------------------------------------
+// output:-
+// Sorted array is
+// 1 5 6 9 10 12 
