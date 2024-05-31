@@ -29,3 +29,7 @@ public class SelectionSort {
         ob.printArray(arr);
     }
 }
+// -----------------------------------------------------------------------------
+// output:-
+// Sorted array
+// 11 12 22 25 64 
