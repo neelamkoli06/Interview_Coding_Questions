@@ -1,3 +1,5 @@
+// Write a Programme for Heap sort algorithm.
+
 package Sorting_Algorithms;
 public class HeapSort {
         public void sort(int arr[]) {
