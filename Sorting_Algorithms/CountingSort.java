@@ -1,4 +1,4 @@
-// Write a Programme for Counting sort algorithm.
+// Write a Program for Counting sort algorithm.
 
 package Sorting_Algorithms;
 import java.util.Arrays;

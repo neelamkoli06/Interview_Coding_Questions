@@ -1,4 +1,4 @@
-// Write a Programme for Bubble sort algorithm.
+// Write a Program for Bubble sort algorithm.
 
 package Sorting_Algorithms;
 
