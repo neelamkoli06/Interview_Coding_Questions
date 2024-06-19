@@ -1,3 +1,4 @@
+// Write a Program for Quick sort algorithm.
 package Sorting_Algorithms;
 import java.util.Arrays;
 
